@@ -1,1 +1,2 @@
-new test
+new text for test
+we make conflict
