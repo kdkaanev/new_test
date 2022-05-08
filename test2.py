@@ -46,3 +46,5 @@ def treasure(item_list):
 
 treasure_chest = input()
 treasure(treasure_chest.split('|'))
+
+print('conflict')
